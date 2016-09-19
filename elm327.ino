@@ -1,3 +1,4 @@
+// code from ELM327 Arduino library developed by https://www.clusterfsck.io/blog/arduino-elm327-library/
 #ifndef ELM_TIMEOUT
 	#warning "ELM_TIMEOUT must be defined."
 	#define ELM_TIMEOUT 9000
